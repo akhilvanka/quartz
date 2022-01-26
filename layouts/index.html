@@ -15,12 +15,12 @@
 <div class="index">
     <div class="bio">
         <article>
-            <p>Hello there, <span class="return-only"> Welcome back! </span> im Akhil</p>
+            <p>Hello there, <span class="return-only"> Welcome back! </span> My Name is Akhil</p>
             <div class="delay stagger">{{- .Content -}}</div>
         </article>
         <ul class="delay t-4 stagger">
             <h2>Recent Notes</h2>
-            {{range first 6 .Site.RegularPages }}
+            {{range first 8 .Site.RegularPages }}
             <li class="section-li">
                 <div class="section">
                     <div class="desc">
@@ -33,11 +33,11 @@
             </li>
             {{end}}
         </ul>
+        <div> Hello </div>
     </div>
     <div class="delay t-4">
         {{partial "footer.html" .}}
     </div>
 </div>
-<div class="index"> Hello </div>
 </body>
 </html>
