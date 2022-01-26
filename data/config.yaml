@@ -1,13 +1,10 @@
-name: Jacky Zhao
+name: Akhil Vanka
 enableToc: true
 enableLinkPreview: true
 description:
-  Here is the page description. This is an example Quartz site that details installation,
-  setup, customization, and troubleshooting for Quartz itself.
+  A simple thing
 page_title:
-  "🪴 Quartz 3"
+  "akhilv.me"
 links:
-  - link_name: Twitter
-    link: https://twitter.com/_jzhao
   - link_name: Github
-    link: https://github.com/jackyzha0
+    link: https://github.com/akhilvanka
