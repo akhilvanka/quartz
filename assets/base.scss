@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap');
+
 :root {
   --lt-colours-light: var(--light) !important;
   --lt-colours-lightgray: var(--lightgray) !important;
@@ -83,7 +86,7 @@ article {
 }
 
 p, ul, text, li, ol {
-  font-family: 'Spectral', sans-serif;
+  font-family: 'DM Serif Display', serif;
   color: var(--gray);
   fill: var(--gray);
   font-size: 1.1rem;
@@ -114,7 +117,7 @@ p, ul, text, li, ol {
   }
 
   & > li::marker, & > li > ol > li::marker {
-    font-family: 'Spectral';
+    font-family: 'DM Serif Display';
     font-weight: 700;
   }
 }
@@ -145,7 +148,7 @@ sup {
 }
 
 p, tbody, li {
-  font-family: Spectral;
+  font-family: 'DM Serif Display';
   color: var(--gray);
   line-height: 1.5em;
 }
@@ -247,7 +250,7 @@ article {
   }
 
   & a {
-    font-family: Spectral;
+    font-family: 'DM Serif Display';
     font-weight: 600;
 
     &.internal-link {
