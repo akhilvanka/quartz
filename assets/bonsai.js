@@ -1,8 +1,8 @@
 
 var output = document.getElementById("output");
 
-var rows=45
-var cols=75
+var rows=30
+var cols=30
 var grid
 
 var branches = 0
