@@ -9,4 +9,8 @@
 </div>
 
 {{partial "contact.html" .}}
-
+{{- with resources.Get "bonsai.js" | minify -}}
+<script>
+    {{.Content | safeJS }}
+</script>
+{{- end -}}

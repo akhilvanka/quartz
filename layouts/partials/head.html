@@ -24,11 +24,6 @@
       {{.Content | safeJS }}
     </script>
     {{- end -}}
-    {{- with resources.Get "bonsai.js" | minify -}}
-    <script>
-        {{.Content | safeJS }}
-    </script>
-    {{- end -}}
 </head>
 {{ template "_internal/google_analytics.html" . }}
 {{ partial "popover.html" .}}
