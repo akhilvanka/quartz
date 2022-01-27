@@ -1,26 +1,9 @@
 ---
 title: akhilv.me
 ---
-Host your second brain and [digital garden](https://jzhao.xyz/posts/digital-gardening) for free. Quartz features
-1. Extremely fast full-text search by pressing `/`
-2. Display for backlinks of each note
-3. Fully customizable local graph view
-4. Endlessly powerful page and theme customization using CSS
-5. Automatically generated tag and section lists of content
-6. Beautiful link previews
 
-## Get Started
-> 📚 [Setup your own digital garden using Quartz](notes/setup.md)
+Hi, if you don't already know me, I'm Akhil. Welcome, hope you enjoy your stay. This is my repertoire (*fancy words I know*), anyway this is where I have all my notes.
 
-Not convinced yet? Look at some [community digital gardens](notes/showcase.md) built with Quartz, or read about [why I made Quartz](notes/philosophy.md) to begin with!
+Check out my [Github](https://github.com/akhilvanka) to see some of my projects, or browse around to see some of my thoughts, it's whatever you're feeling. 
 
-## Content Lists
-If you prefer browsing the contents of this site through a list instead of a graph, you can find content lists here too:
-
-- [All Notes](/notes)
-- [Setup-related Notes](/tags/setup)
-
-## Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
+Anyway, that's all I have, till next time.
