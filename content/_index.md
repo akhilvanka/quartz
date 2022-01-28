@@ -9,4 +9,6 @@ I've resolved myself this year to start following better habits, so this is a st
 
 If not, do check out my [dashboard](https://dash.imber.tech) where I host many of my self hosted services.
 
+If your here just to hang out, 
+
 Anyway, that's all I have, till next time.

@@ -28,6 +28,10 @@
   --outlinegray: #3b2842 !important;
 }
 
+::-webkit-scrollbar {
+  display: none;
+}
+
 .ascii {
   margin-bottom: 0;
   padding: 0;
